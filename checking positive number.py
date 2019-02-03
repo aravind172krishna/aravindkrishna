@@ -1,7 +1,7 @@
-num=int(input("enter a number"))
+num=int(raw_input("enter a number"))
 if (num>0):
-	print("positive")
+	print("POSITIVE")
 elif (num==0):
-	print('zero')
+	print('ZERO')
 else:
-	print("negative")
+	print("NEGATIVE")
