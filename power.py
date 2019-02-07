@@ -1,3 +1,3 @@
 num=int(input())
-power=int(input())
-print(num**power)
+pow=int(input())
+print(num**pow)
